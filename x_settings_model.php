@@ -1,5 +1,5 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+branch1
 class X_settings_model extends CI_Model 
 {
 	function __construct()
